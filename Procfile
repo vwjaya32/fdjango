@@ -1,0 +1,1 @@
+web: gunicorn fdjango.wsgi --log-file -
